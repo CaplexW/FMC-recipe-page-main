@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://caplexw.github.io/FMC-recipe-page-main/)
+- Solution [URL](https://caplexw.github.io/FMC-recipe-page-main/)
 
 ## My process
 
